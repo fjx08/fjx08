@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=这个人很懒+什么也没有留下;Learning+Mechanical+Engineering;Exploring+the+world+of+coding)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="#cn">🇨🇳 中文</a> &nbsp;|&nbsp; <a href="#en">🇬🇧 English</a>
+  <a href="README.zh-CN.md">🇨🇳 中文版本</a>
 </p>
 
 ---
-<h2 id="en">🇬🇧 English Version</h2>
 
 ## 🧑‍🎓 About Me
 

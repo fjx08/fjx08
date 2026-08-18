@@ -57,15 +57,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default" alt="GitHub 统计" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact" alt="常用语言" width="48%" />
-</p>
-
----
-
 ## 📫 联系我
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:你的邮箱)

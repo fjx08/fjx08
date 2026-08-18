@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there, I'm [你的名字]
+# 👋 Hi there, I'm [fjx]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=广东石油化工学院+准大一新生;机械制造及其自动化+专业;Learning+Mechanical+Engineering;Exploring+the+world+of+coding)](https://git.io/typing-svg)
 

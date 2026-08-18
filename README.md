@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there, I'm [fjx]
+# 👋 Hi there, I'm fjx
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=广东石油化工学院+准大一新生;机械制造及其自动化+专业;Learning+Mechanical+Engineering;Exploring+the+world+of+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=这个人很懒+什么也没有留下;Learning+Mechanical+Engineering;Exploring+the+world+of+coding)](https://git.io/typing-svg)
 
 ---
 
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 - 💻 正在学习编程，探索机械与软件交叉的可能性
 - 🌱 目前在学习：C / C++ / Python / CAD / SolidWorks
 - 🤝 开放合作，欢迎交流与指教
-- 📫 联系方式：[你的邮箱]
-- ⚡ Fun fact：工科生的浪漫，是把图纸变成现实
+- 📫 联系方式：没事烧纸，有事上香
 
 ---
 
@@ -59,13 +58,6 @@ Here are some ideas to get you started:
 - [ ] 完成 1-2 个机械+编程结合的小项目
 - [ ] 积极参与开源社区，积累实践经验
 - [ ] 持续更新 GitHub，记录学习成长
-
----
-
-## 📊 GitHub Stats
-
-(https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact)
 
 ---
 

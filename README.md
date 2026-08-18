@@ -1,81 +1,75 @@
-## Hi there 👋
+<!-- ==================== 英文版本 ==================== -->
+<h2 id="en">🇬🇧 English Version</h2>
 
-<!--
-**fjx08/fjx08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi there, I'm fjx
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=这个人很懒+什么也没有留下;Learning+Mechanical+Engineering;Exploring+the+world+of+coding)](https://git.io/typing-svg)
+- 🏫 Guangdong University of Petrochemical Technology · Freshman majoring in Mechanical Manufacturing and Automation
+- 🔧 Curious about mechanical design, intelligent manufacturing, and automation control
+- 💻 Learning programming to explore the intersection of mechanics and software
+- 🌱 Currently learning: C / C++ / Python / CAD / SolidWorks
+- 🤝 Open to collaboration – feel free to reach out!
+- 📫 Contact: If it's not urgent, don't bother me 😄
 
 ---
 
-## 🧑‍🎓 About Me / 关于我
+## 🛠️ Tech Stack (Learning)
 
-- 🏫 广东石油化工学院 · 机械制造及其自动化专业 准大一新生
-- 🔧 对机械设计、智能制造、自动化控制充满好奇
-- 💻 正在学习编程，探索机械与软件交叉的可能性
-- 🌱 目前在学习：C / C++ / Python / CAD / SolidWorks
-- 🤝 开放合作，欢迎交流与指教
-- 📫 联系方式：没事烧纸，有事上香
-
----
-
-## 🛠️ Tech Stack / 技术栈（学习ing）
-
-| 类别 | 技术 |
-|------|------|
-| 编程语言 | C / C++ / Python（入门中） |
-| 机械设计 | AutoCAD / SolidWorks（学习中） |
-| 工具 | Git / GitHub / VS Code |
-| 兴趣方向 | 智能制造 / 机器人 / 自动化控制 |
+| Category | Technology |
+|----------|------------|
+| Languages | C / C++ / Python (Beginner) |
+| Mechanical Design | AutoCAD / SolidWorks (Learning) |
+| Tools | Git / GitHub / VS Code |
+| Interests | Intelligent Manufacturing / Robotics / Automation |
 
 ---
 
-## 📚 目前在学习
+## 📚 Currently Learning
 
-- 机械制图与 CAD 基础
-- C 语言程序设计
-- 大学数学 & 物理
-- Git 版本控制 & GitHub 协作
-
----
-
-## 🎯 2026 目标
-
-- [ ] 掌握 C / C++ 基础编程能力
-- [ ] 熟练使用 SolidWorks 进行三维建模
-- [ ] 完成 1-2 个机械+编程结合的小项目
-- [ ] 积极参与开源社区，积累实践经验
-- [ ] 持续更新 GitHub，记录学习成长
+- Mechanical Drawing & CAD Fundamentals
+- C Programming
+- College Mathematics & Physics
+- Git Version Control & GitHub Collaboration
 
 ---
 
-## 📝 最近更新
+## 🎯 2026 Goals
 
-- 🔭 正在准备大一入学，开启大学生活
-- 🌱 正在学习 GitHub 使用和 Markdown 语法
-- 📖 阅读《机械设计基础》入门书籍
+- [ ] Master basic C/C++ programming
+- [ ] Become proficient in SolidWorks 3D modeling
+- [ ] Complete 1–2 small projects combining mechanics and programming
+- [ ] Actively participate in open source communities
+- [ ] Keep GitHub updated to track learning progress
 
 ---
 
-## 📫 联系我
+## 📝 Recent Updates
+
+- 🔭 Preparing for freshman year
+- 🌱 Learning GitHub and Markdown
+- 📖 Reading "Fundamentals of Mechanical Design"
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:你的邮箱)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/你的用户名)
 
 ---
 
-> “纸上得来终觉浅，绝知此事要躬行。” —— 陆游
+> "What you get on paper is shallow; only by practicing it yourself can you truly understand it." — Lu You
 
-感谢访问！欢迎 star 或 fork 我的仓库 ⭐
+---
+
+<p align="center">
+  <i>Thanks for visiting! ⭐ Feel free to star or fork my repos.</i>
+</p>
